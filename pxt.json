@@ -1,0 +1,25 @@
+{
+    "name": "achteruitrijalarm",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "servo": "*",
+        "filesystem": "github:microsoft/pxt-filesystem#v0.10.0",
+        "gatorlight": "github:sparkfun/pxt-gator-light#v0.0.3",
+        "midi": "github:microsoft/pxt-midi#v2.1.11"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
